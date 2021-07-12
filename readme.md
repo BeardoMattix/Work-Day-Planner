@@ -1,6 +1,6 @@
 # Welcome to my Work Day Planner!
 
-#### This is a web application designed using HTML, CSS, JS, JQuery and Bootstrap allowing users to schedule events during a typical workday. The app shows the current date and time and color codes time blocks based on past, present, and future. 
+#### This is a web application designed using HTML, CSS, JS, JQuery and Bootstrap allowing users to schedule events during a typical work day. The app shows the current date and time and color codes time blocks based on past, present, and future. 
 
 ## Link to Deployed Site
 
@@ -14,7 +14,7 @@
 
 ## Motivation
 
-I wanted to create a project that allows users to plan their workday easily. The app allows users to edit events for each hour of their workday, and the time blocks are colorcoded to show whether an event is in the past, present, or future (past events/hours are grey, the current hour is red, and future hours are green). 
+I wanted to create a project that allows users to plan their work day easily. The app allows users to edit events for each hour of their work day, and the time blocks are colorcoded to show whether an event is in the past, present, or future (past events/hours are grey, the current hour is red, and future hours are green). 
 
 The app saves the users scheduled events in local storage so they can navigate away from the page and still return to an accurate schedule. I used Moment to add the date and time to the top of the page, and wrote a function so the time will accurately update throughout the day. 
 
@@ -27,7 +27,7 @@ The app saves the users scheduled events in local storage so they can navigate a
 * Bootstrap
 
 ## Functionality
-
+![Work-Day-Planner-Demo](https://user-images.githubusercontent.com/82903201/125318449-d9021280-e307-11eb-8188-1c318e307ace.gif)
 
 #### The demo shows the main functions of the quiz:
 * Date and time are displayed at the top of the page. 
