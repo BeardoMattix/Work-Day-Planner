@@ -27,7 +27,8 @@ The app saves the users scheduled events in local storage so they can navigate a
 * Bootstrap
 
 ## Functionality
-![Work-Day-Planner-Demo](https://user-images.githubusercontent.com/82903201/125318449-d9021280-e307-11eb-8188-1c318e307ace.gif)
+![Work-Day-Planner-Demo](https://user-images.githubusercontent.com/82903201/125320435-b3760880-e309-11eb-926a-98e8cc77b43c.gif)
+
 
 #### The demo shows the main functions of the quiz:
 * Date and time are displayed at the top of the page. 
