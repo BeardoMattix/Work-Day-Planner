@@ -4,7 +4,7 @@
 
 ## Link to Deployed Site
 
-
+[Deployed Site](https://beardomattix.github.io/Work-Day-Planner/)
 
 ## Table of Contents
   * [Motivation and Technologies](#motivation)
