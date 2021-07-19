@@ -1,5 +1,5 @@
 var currentDay = document.querySelector(".currentDay");
-var saveBtn = document.querySelector("#save");
+var saveButton = document.querySelector("#save");
 var description = document.querySelector(".description");
 
 // Display current date and time and increment timer by 1 second.
