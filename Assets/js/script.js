@@ -14,8 +14,7 @@ $(document).ready(function () {
 }, 1000);
 
 $(document).ready(function () {
-  // saveBtn click listener
-  $(".saveBtn").on("click", function () {
+  $(".saveButtonn").on("click", function () {
     var text = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id");
 
