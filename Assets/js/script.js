@@ -14,7 +14,7 @@ $(document).ready(function () {
 }, 1000);
 
 $(document).ready(function () {
-  $(".saveButtonn").on("click", function () {
+  $(".saveButton").on("click", function () {
     var text = $(this).siblings(".description").val();
     var time = $(this).parent().attr("id");
 
